@@ -5,3 +5,5 @@ we will explore building a Recurrent Neural Network (RNN) for music generation. 
 We've gathered a dataset of thousands of Irish folk songs, represented in the ABC notation. Let's download the dataset and inspect it. [input.txt]
 
 Detailed explanation in the ipynb file.
+
+Reference: MIT Deep learning course
